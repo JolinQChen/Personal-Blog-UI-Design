@@ -15,4 +15,4 @@ https://prismjs.com/
 Tabls of Contents: Tocbot https://tscanlin.github.io/tocbot/  
 QR code generation: qrcode.js https://davidshimjs.github.io/qrcodejs/  
 
-Get these plugins and put them into lib directory
+Get these plugins and put them into lib directory under static
